@@ -31,5 +31,5 @@ Once you clone this repository, on your local machine, create a separate folder 
     - The properties file must be initialized in git
     
   ## Finally
-  Once steps are completed, run the server using a code editor or command line in project's root directory `mvn run spring:boot`
+  Once steps are completed, run the server using a code editor or command line in project's root directory `mvn spring-boot:run`
   Run the client service and follow client service instructions.
