@@ -30,3 +30,6 @@ Once you clone this repository, on your local machine, create a separate folder 
     - The properties themselves are the same name as the client with dot properties (minimum and maximum) that are serialized as POJO object properties in the client
     - The properties file must be initialized in git
     
+  ## Finally
+  Once steps are completed, run the server using a code editor or command line in project's root directory `mvn run spring:boot`
+  Run the client service and follow client service instructions.
